@@ -14,8 +14,8 @@
 
 ### Let's Connect 🤝
 <p align="left">
-<a href="https://twitter.com/SunnySh9818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayankgupta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mayank-gupta-478640200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-gupta-478640200" height="30" width="40" /></a>
+<a href="https://twitter.com/SunnySh9818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SunnySharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sunny-sharma-4a1857171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunny-sharma-4a1857171" height="30" width="40" /></a>
 </p>
 
 
