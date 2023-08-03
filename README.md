@@ -4,7 +4,7 @@
 ## I'm a Computer Science and Engineering Student  
 
 - 📚 I’m doing my B.Tech from Noida Institute of Engineering and Technology.
-- 💻 I love playing with cloud and I'm exploring open source and kubernetes development.
+- 💻 I love playing with datasets, as I'm doing my engineering with specialization in Artificial Intelligence and Machine Learning.
 - 💞️ I would love to participate in hackathons.
 - 📫 How to reach me sunny9818ik@gmail.com.  
 
